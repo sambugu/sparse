@@ -1,5 +1,5 @@
 
 
 mkdocs:
-  configuration: mkdocs.yml
+  configuration: site/mkdocs.yml
   fail_on_warning: false
