@@ -1,4 +1,4 @@
-site_name: SPARSE
+site_name: SPARSE Documentation
 nav:
     - Introduction: index.md
     - Model Description: AlgoDescription.md

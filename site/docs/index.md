@@ -1,4 +1,4 @@
-# SPARSE Documentation 
+# SPARSE 
 
 SPARSE <a href="#article">(Soil Plant Atmosphere Remote Sensing Evapotranspiration, Boulet et al., 2015)</a> is a two source energy budget model meant to estimate turbulent fluxes at the land surface. 
 By considering both the soil and vegetation, the dual-source algorithm disaggregates evapotranspiration into its separate components, i.e., 
