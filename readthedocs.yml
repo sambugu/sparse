@@ -1,5 +1,3 @@
-build:
-  image: latest
-
-python:
-  setup_py_install: true
+mkdocs:
+  configuration: site/mkdocs.yml
+  fail_on_warning: false
