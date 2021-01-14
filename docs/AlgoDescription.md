@@ -2,7 +2,7 @@
   src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
 </script>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-# SPARSE | Theory
+# SPARSE | Theory/methods
 
 SPARSE partitions the available energy (Æ) into surface fluxes by analogously treating the soil-vegetation continuum as either 'series' 
 or 'parallel', a rationale that is similar to <a title="Two Source Energy Balance model" target="_blank" href="https://doi.org/10.1016/0168-1923(95)02265-Y">TSEB</a>. The execution sequence is generally the same for both modes. However, only theoretical aspects of the 'series' mode are 
