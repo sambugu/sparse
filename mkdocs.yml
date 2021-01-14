@@ -1,0 +1,6 @@
+site_name: SPARSE documentation
+nav:
+    - Introduction: index.md
+    - Model Description: AlgoDescription.md
+    - About: about.md
+theme: readthedocs
